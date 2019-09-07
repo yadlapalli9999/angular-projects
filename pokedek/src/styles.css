@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+ @import "~bootstrap/dist/css/bootstrap.css";
+ @import "~font-awesome/css/font-awesome.css";
+
+ .poke-row {
+  margin-bottom: 10px;
+}
+.poke-img {
+  max-width: 200px;
+  max-height: 150px;
+}
+.add-poke {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-link:hover .fa-trash-o {
+  color: red;
+}
+.card-link:hover .fa-info-circle {
+  color: #F97C00;
+}
+em {
+  float: right;
+  color: #E05C65;
+}
