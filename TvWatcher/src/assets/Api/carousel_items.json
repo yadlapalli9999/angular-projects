@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "image": "assets/images/1.jpg",
+    "title": "Mr Robot"
+  },
+  {
+    "id": "2",
+    "image": "assets/images/2.jpg",
+    "title": "Game of Thrones"
+  },
+  {
+    "id": "3",
+    "image": "assets/images/3.jpg",
+    "title": "House of Cards"
+  },
+  {
+    "id": "4",
+    "image": "assets/images/4.jpg",
+    "title": "The Walking Dead"
+  }
+]
